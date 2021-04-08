@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @porajGorski
+- 👀 I’m interested in Machine Learning and Big Data.
+- 🌱 I’m currently learning Python, Java and SQL.
+- 💞️ I’m looking to collaborate on projects related to back-end and robotics.
+- 📫 How to reach me -> piotr.porajgorski@gmail.com
