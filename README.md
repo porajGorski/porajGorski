@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @porajGorski
 - 👀 I’m interested in Machine Learning and Big Data.
-- 🌱 I’m currently working with Python and Oracle SQL, learning on Java and C#.
+- 🌱 I’m currently working with Python and Oracle SQL, learning on Java and C.
 - 💞️ I’m looking to collaborate on projects related to back-end and data science.
 - 📫 How to reach me -> piotr.porajgorski@gmail.com
